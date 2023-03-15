@@ -1,0 +1,92 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Northon Vinicius Cardoso}
+\address{Rua Joaquim José Meurer, 106, Forquilhas - São José} 
+\address{(48)9208-7833 \\ northoncardoso@gmail.com} % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Formação Acadêmica}
+
+{\bf Universidade Federal de Santa Catarina} \hfill {\em 2017 - 2019} 
+\\ Bacharelado em Ciências da Computação
+\\ Departamento de Informática e Estatística
+\\
+\\{\bf SENAI/SC} \hfill {\em 2015 - 2017} 
+\\ Técnico em Edificações
+\\ 
+\\{\bf Escola de Ensino Médio Cecília Rosa Lopes} \hfill {\em 2014 - 2016} 
+\\ Ensino Médio.
+
+
+\end{rSection}
+
+\begin{rSection}{Objetivos Profissionais}
+Trabalhar em uma empresa que me dê a oportunidade de melhorar minhas habilidades e me auxilie na aquisição de conhecimento, além de tudo que eu possa crescer junto com a empresa.
+\end{rSection}
+%--------------------------------------------------------------------------------
+%    Projects And Seminars
+%-----------------------------------------------------------------------------------------------
+\begin{rSection}{Projetos}
+{\bf Dog Art}
+\\ Sociedade em uma empresa de produção e venda de cachorro quente e xis prensados. 
+\\
+\\{\bf G2e - Célula de Jogos Digitais}
+\\Desenvolvendo um jogo dentro do universo do 'The Rotfather', a equipe é composta por estudantes de diversos cursos, tal qual design, ciências da computação e animação, além de alunos já formados.
+\\
+\\{\bf ASINCO - UFSC}\\
+Auxiliar na organização dos atletas dentro dos campeonatos, principalmente nas modalidades de luta individual.\\
+
+
+\end{rSection}
+
+\begin{rSection}{Habilidades Específicas}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Desenvolvimento de Software \ & Java, C\#, SQL \\
+Informática Básica \ & AutoCAD, Unity, Excel \\
+Design Gráfico \ & Coreldraw \\
+
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experiência Profissional}
+
+\begin{rSubsection}{Imperatriz Aquecedores}{12/02/2018 - 03/2019}{Auxiliar Técnico}{}
+\item Auxiliava na instalação de aquecedores, refrigeradores, condensadores e limpeza dos mesmos.
+
+\end{rSubsection}
+
+\begin{rSubsection}{Grupo Diferenciar}{25/11/2019 - 05/04/2020}{Auxiliar Técnico}{}
+\item Auxiliava na instalação de refrigeradores, condensadores e limpeza dos mesmos. Além do auxilio em pequenos reparos elétricos e análogos.
+
+\end{rSubsection}
+
+\begin{rSubsection}{E-Print Center Service}{29/04/2020 - 31/12/2020}{Vendedor, Caixa, Criador de Arte}{}
+\item Venda de produtos, criação da arte, controle de estoque, limpeza do estabelecimento.
+
+\end{rSubsection}
+
+\begin{rSubsection}{Dog Art}{28/06/2021 - 13/03/2023}{Atendente, Caixa, Gerente, Criador de Arte}
+\item Auxiliava na produção dos ingredientes, compras de produtos, gestão de funcionários, artes de mídias digitais e de materiais impressos, logística de produtos, limpeza dos materiais. 
+    
+\end{rSubsection}
+
+\end{rSection}
+
+\begin{rSection}{Habilidades Pessoais}
+\item Muita facilidade para trabalhar em grupo, aprendizado rápido, comunicação boa, sou muito observador para adquirir conhecimento. Extrovertido e Simpático.
+\end{rSection}
+\end{document}
